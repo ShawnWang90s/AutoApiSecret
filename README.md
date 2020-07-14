@@ -1,4 +1,4 @@
-# AutoApiSecret-加密版
+# AutoApiSecret-加密版（微软E5订阅自动调用API）
 AutoApi系列：AutoApi、AutoApiSecret、AutoApiSR、AutoApiS
 
 # 置顶 #
